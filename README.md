@@ -8,7 +8,7 @@ Repository ini berisi dua proyek utama dalam rangkaian Big Fundamental Deep Lear
 
 Kedua proyek ini saling berhubungan: data hasil scraping digunakan untuk membangun model klasifikasi sentimen.
 
-## 1. Proyek Scraping Data – Analisis Sentimen
+## 1. Scraping Data – Analisis Sentimen
 Deskripsi
 
 Project ini melakukan proses web scraping untuk mengumpulkan data teks (misalnya review, komentar, atau tweet) yang akan digunakan untuk analisis sentimen.
@@ -25,7 +25,7 @@ Output
 
 Dataset mentah yang siap diproses dan digunakan dalam pelatihan model analisis sentimen.
 
-## 2. Proyek Pelatihan Model – Analisis Sentimen
+## 2. Pelatihan Model – Analisis Sentimen
 Deskripsi
 
 Notebook ini berfokus pada membangun model sentiment analysis menggunakan dataset hasil scraping.
